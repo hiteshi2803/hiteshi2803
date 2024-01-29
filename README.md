@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Backend Technologies**
 
-- 👨‍💻 All of my projects are available at [https://hiteshi2803.github.io/Portfolio/](https://hiteshi2803.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://hiteshi2803.github.io/Portfolio/)
 
 - 📫 How to reach me **You can connect with me via LinkedIn or mail**
 
-- 📄 Resume [https://drive.google.com/file/d/1xvfirIMG9dp-QHe-aH__GruNZorb2f62/view?usp=sharing](https://drive.google.com/file/d/1xvfirIMG9dp-QHe-aH__GruNZorb2f62/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1xvfirIMG9dp-QHe-aH__GruNZorb2f62/view?usp=sharing)
 
 - ⚡ Fun fact **I'm an extrovert who loves meeting new people, trying out new things, and exploring life!**
 
