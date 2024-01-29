@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshi2803&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshi2803" /> </p>
 
-- 🔭 I’m currently working on **App Development**
+- 🔭 I’m currently working on **improving my coding skills and exploring new domains/technologies**
 
 - 🌱 I’m currently learning **Backend Technologies**
 
 - 👨‍💻 All of my projects are available at [https://hiteshi2803.github.io/Portfolio/](https://hiteshi2803.github.io/Portfolio/)
 
-- 📫 How to reach me **dattatreyhiteshi2004@gmail.com**
+- 📫 How to reach me **You can connect with me via LinkedIn or mail**
+
+- 📄 Resume [https://drive.google.com/file/d/1xvfirIMG9dp-QHe-aH__GruNZorb2f62/view?usp=sharing](https://drive.google.com/file/d/1xvfirIMG9dp-QHe-aH__GruNZorb2f62/view?usp=sharing)
+
+- ⚡ Fun fact **I'm an extrovert who loves meeting new people, trying out new things, and exploring life!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
